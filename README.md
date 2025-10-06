@@ -13,10 +13,3 @@ Hi, I’m Maydelin, a software engineering student passionate about web developm
   <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=maydelinlopez&theme=radical&hide_border=true" />
   <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maydelinlopez&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maydelinlopez&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
