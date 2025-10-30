@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Maydelin, a software engineering student passionate about web development and problem-solving. I enjoy building efficient and secure applications or websites while continuously learning new technologies to improve my skills.
+Hi, I’m Maydelin, a software engineering student passionate about web development and problem-solving. I enjoy building efficient and secure applications/websites while continuously learning new technologies to improve my skills.
 
 
 ## 🌐 Socials:
