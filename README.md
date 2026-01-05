@@ -1,5 +1,5 @@
 # About Me:
-Hello, I’m Maydelin, a software engineering student passionate about web development and problem-solving. I enjoy building efficient and secure applications/websites while continuously learning new technologies to improve my skills.
+Hi, I’m Maydelin, a software engineering student passionate about web development and problem-solving. I enjoy building efficient and secure applications/websites while continuously learning new technologies to improve my skills.
 
 
 ## 🌐 Socials:
@@ -11,5 +11,4 @@ Hello, I’m Maydelin, a software engineering student passionate about web devel
 # 📊 GitHub Stats:
 <p align="center">
   <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=maydelinlopez&theme=radical&hide_border=true" />
-  <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maydelinlopez&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
